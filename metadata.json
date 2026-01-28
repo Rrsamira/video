@@ -1,0 +1,8 @@
+{
+  "name": "EditFlow Pro",
+  "description": "An advanced AI-powered video editing platform featuring text-to-edit commands, smart filters, and a professional timeline interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
